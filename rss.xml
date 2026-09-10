@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate>
-    <item>
-      <title>AI 学習データの透明性と著作権：米国 TRAIN Act 法案</title>
-      <link>https://www.meilin-law.jp/ai-%e5%ad%a6%e7%bf%92%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ae%e9%80%8f%e6%98%8e%e6%80%a7%e3%81%a8%e8%91%97%e4%bd%9c%e6%a8%a9%ef%bc%9a%e7%b1%b3%e5%9b%bd-train-act-%e6%b3%95%e6%a1%88/</link>
-      <description>カテゴリー: AI
-執筆者：フォーリンアトーニー　ドミトロ　イゾトフ 　生成 AI の開発において、書籍、画像、音楽、記事その他の著作物が AI モデルの学習に利用されているのではないか、という問題は、世界的に大きな議論となっています。特に、著作権者の側から見</description>
-      <content:encoded>カテゴリー: AI
-執筆者：フォーリンアトーニー　ドミトロ　イゾトフ 　生成 AI の開発において、書籍、画像、音楽、記事その他の著作物が AI モデルの学習に利用されているのではないか、という問題は、世界的に大きな議論となっています。特に、著作権者の側から見</content:encoded>
-      <category>AI</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0800</lastBuildDate>
     <item>
       <title>経営者が事業承継に踏み出せない理由を、経営者心理から探り、対策案も考えてみる</title>
       <link>https://www.meilin-law.jp/%e7%b5%8c%e5%96%b6%e8%80%85%e3%81%8c%e4%ba%8b%e6%a5%ad%e6%89%bf%e7%b6%99%e3%81%ab%e8%b8%8f%e3%81%bf%e5%87%ba%e3%81%9b%e3%81%aa%e3%81%84%e7%90%86%e7%94%b1%e3%82%92%e7%b5%8c%e5%96%b6%e8%80%85%e5%bf%83/</link>
@@ -108,6 +98,16 @@
 執筆者：オドノバン　ショーン塁 　事業承継においては、少数株主の存在が問題となることが多くあります。少数株主は、過去に行った取引先との株式持ち合いなどによって、経営者交代以前から存在する場合もありますし、経営者が死亡し、その保有株式が分散し</content:encoded>
       <category>事業承継・相続・家族信託</category>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「学習データに不使用」では不十分？AI音声模倣に潜む法的落とし穴とその対策</title>
+      <link>https://www.meilin-law.jp/%e3%80%8c%e5%ad%a6%e7%bf%92%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ab%e4%b8%8d%e4%bd%bf%e7%94%a8%e3%80%8d%e3%81%a7%e3%81%af%e4%b8%8d%e5%8d%81%e5%88%86%ef%bc%9f/</link>
+      <description>カテゴリー: AI
+執筆者：弁理士・事業承継士　下井 功介 　昨今のAI音声生成技術の進歩・普及に伴い、多くのクリエイター・制作会社は、その技術を活用しているのではないでしょうか？（以下、AI音声生成技術を用いて生成した音声を「AI音声」といいます。）そして、</description>
+      <content:encoded>カテゴリー: AI
+執筆者：弁理士・事業承継士　下井 功介 　昨今のAI音声生成技術の進歩・普及に伴い、多くのクリエイター・制作会社は、その技術を活用しているのではないでしょうか？（以下、AI音声生成技術を用いて生成した音声を「AI音声」といいます。）そして、</content:encoded>
+      <category>AI</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
