@@ -8,27 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <item>
-      <title>電子署名の法的効力を正しく理解する ～導入前に押さえたい基礎知識～</title>
-      <link>https://www.meilin-law.jp/%e9%9b%bb%e5%ad%90%e7%bd%b2%e5%90%8d%e3%81%ae%e6%b3%95%e7%9a%84%e5%8a%b9%e5%8a%9b%e3%82%92%e6%ad%a3%e3%81%97%e3%81%8f%e7%90%86%e8%a7%a3%e3%81%99%e3%82%8b-%ef%bd%9e%e5%b0%8e%e5%85%a5%e5%89%8d%e3%81%ab/</link>
-      <description>カテゴリー: 一般企業法務等
-執筆者：弁護士　桺原 弘樹 1. はじめに 　テレワークの定着とともに、契約書への押印を電子契約サービスに置き換える企業が増えています。電子契約には、印紙税や契約書の保管費用を抑えられるといったメリットがある一方、新しい取り組みには少なから</description>
-      <content:encoded>カテゴリー: 一般企業法務等
-執筆者：弁護士　桺原 弘樹 1. はじめに 　テレワークの定着とともに、契約書への押印を電子契約サービスに置き換える企業が増えています。電子契約には、印紙税や契約書の保管費用を抑えられるといったメリットがある一方、新しい取り組みには少なから</content:encoded>
-      <category>一般企業法務等</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>EU AI法の透明性義務が適用開始：日本企業が今確認すべきポイント</title>
-      <link>https://www.meilin-law.jp/eu-ai%e6%b3%95%e3%81%ae%e9%80%8f%e6%98%8e%e6%80%a7%e7%be%a9%e5%8b%99%e3%81%8c%e9%81%a9%e7%94%a8%e9%96%8b%e5%a7%8b%ef%bc%9a%e6%97%a5%e6%9c%ac%e4%bc%81%e6%a5%ad%e3%81%8c%e4%bb%8a%e7%a2%ba%e8%aa%8d/</link>
-      <description>カテゴリー: AI
-執筆者：フォーリンアトーニー　ドミトロ　イゾトフ 　以前のコラム「欧州のAI法：日本企業が押さえるべきポイント」では、EUのAI規制法（以下「EU AI法」）の全体像について紹介しました。その中で、対話型AIや生成AIについては、一定の場合</description>
-      <content:encoded>カテゴリー: AI
-執筆者：フォーリンアトーニー　ドミトロ　イゾトフ 　以前のコラム「欧州のAI法：日本企業が押さえるべきポイント」では、EUのAI規制法（以下「EU AI法」）の全体像について紹介しました。その中で、対話型AIや生成AIについては、一定の場合</content:encoded>
-      <category>AI</category>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0800</lastBuildDate>
     <item>
       <title>「コンテの提案（企画段階）なら無料プランの生成AIでOK」は本当？身近に潜む生成AI活用の盲点と法的リスク</title>
       <link>https://www.meilin-law.jp/%e3%80%8c%e3%82%b3%e3%83%b3%e3%83%86%e3%81%ae%e6%8f%90%e6%a1%88%ef%bc%88%e4%bc%81%e7%94%bb%e6%ae%b5%e9%9a%8e%ef%bc%89%e3%81%aa%e3%82%89%e7%84%a1%e6%96%99%e3%83%97%e3%83%a9%e3%83%b3%e3%81%ae%e7%94%9f/</link>
@@ -108,6 +88,26 @@
 執筆者：弁護士・弁理士　田中雅敏、弁護士　堀田明希 １．「声」の権利について、裁判所が初めて考え方を示しました 　令和8年9月30日、東京地方裁判所は、声優の津田健次郎さんが、動画投稿サイト「TikTok」の運営会社に対して、生成AIで作ら</content:encoded>
       <category>知的財産</category>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>親族内承継と遺留分の落とし穴</title>
+      <link>https://www.meilin-law.jp/%e8%a6%aa%e6%97%8f%e5%86%85%e6%89%bf%e7%b6%99%e3%81%a8%e9%81%ba%e7%95%99%e5%88%86%e3%81%ae%e8%90%bd%e3%81%a8%e3%81%97%e7%a9%b4/</link>
+      <description>カテゴリー: 事業承継・相続・家族信託
+執筆者：弁護士　鶴利絵 「自社株はすべて後継者の長男に」。遺言でそう定めておけば承継は安心だと考える経営者は少なくありません。しかし、親族内承継で最も争いが生じやすいのは、まさにこの場面です。 1　株式は「現金にならない財産」 　非上場株式</description>
+      <content:encoded>カテゴリー: 事業承継・相続・家族信託
+執筆者：弁護士　鶴利絵 「自社株はすべて後継者の長男に」。遺言でそう定めておけば承継は安心だと考える経営者は少なくありません。しかし、親族内承継で最も争いが生じやすいのは、まさにこの場面です。 1　株式は「現金にならない財産」 　非上場株式</content:encoded>
+      <category>事業承継・相続・家族信託</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>経営層が把握しておくべき、生成ＡＩ時代の新ルール：知財プリンシプル・コードの４つのポイント</title>
+      <link>https://www.meilin-law.jp/%e7%b5%8c%e5%96%b6%e5%b1%a4%e3%81%8c%e6%8a%8a%e6%8f%a1%e3%81%97%e3%81%a6%e3%81%8a%e3%81%8f%e3%81%b9%e3%81%8d%e3%80%81%e7%94%9f%e6%88%90%ef%bd%81%ef%bd%89%e6%99%82%e4%bb%a3%e3%81%ae%e6%96%b0%e3%83%ab/</link>
+      <description>カテゴリー: 知的財産
+執筆者：弁理士　下井功介 　生成ＡＩの爆発的な普及は、ビジネスに劇的な生産性向上をもたらした一方で、クリエイターの権利侵害や学習データの不透明性という深刻な課題を浮き彫りにしました。今、経営層には、「ＡＩの利便性」と「知財リスク」という２つ</description>
+      <content:encoded>カテゴリー: 知的財産
+執筆者：弁理士　下井功介 　生成ＡＩの爆発的な普及は、ビジネスに劇的な生産性向上をもたらした一方で、クリエイターの権利侵害や学習データの不透明性という深刻な課題を浮き彫りにしました。今、経営層には、「ＡＩの利便性」と「知財リスク」という２つ</content:encoded>
+      <category>知的財産</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
