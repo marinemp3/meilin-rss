@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0800</lastBuildDate>
-    <item>
-      <title>「コンテの提案（企画段階）なら無料プランの生成AIでOK」は本当？身近に潜む生成AI活用の盲点と法的リスク</title>
-      <link>https://www.meilin-law.jp/%e3%80%8c%e3%82%b3%e3%83%b3%e3%83%86%e3%81%ae%e6%8f%90%e6%a1%88%ef%bc%88%e4%bc%81%e7%94%bb%e6%ae%b5%e9%9a%8e%ef%bc%89%e3%81%aa%e3%82%89%e7%84%a1%e6%96%99%e3%83%97%e3%83%a9%e3%83%b3%e3%81%ae%e7%94%9f/</link>
-      <description>カテゴリー: AI
-執筆者：弁理士・事業承継士　下井 功介 　広告・クリエイティブ制作の現場で、「コンテの提案（企画段階）なら、とりあえず無料プランの生成AIを使って素早く対応しよう」という判断をしていませんか？分野に拠らず、ビジネスにおいて、業務の効率化や生</description>
-      <content:encoded>カテゴリー: AI
-執筆者：弁理士・事業承継士　下井 功介 　広告・クリエイティブ制作の現場で、「コンテの提案（企画段階）なら、とりあえず無料プランの生成AIを使って素早く対応しよう」という判断をしていませんか？分野に拠らず、ビジネスにおいて、業務の効率化や生</content:encoded>
-      <category>AI</category>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0800</lastBuildDate>
     <item>
       <title>近時の中国における生成AIに関連する裁判例について</title>
       <link>https://www.meilin-law.jp/%e8%bf%91%e6%99%82%e3%81%ae%e4%b8%ad%e5%9b%bd%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e7%94%9f%e6%88%90ai%e3%81%ab%e9%96%a2%e9%80%a3%e3%81%99%e3%82%8b%e8%a3%81%e5%88%a4%e4%be%8b%e3%81%ab%e3%81%a4%e3%81%84/</link>
@@ -108,6 +98,16 @@
 執筆者：弁理士　下井功介 　生成ＡＩの爆発的な普及は、ビジネスに劇的な生産性向上をもたらした一方で、クリエイターの権利侵害や学習データの不透明性という深刻な課題を浮き彫りにしました。今、経営層には、「ＡＩの利便性」と「知財リスク」という２つ</content:encoded>
       <category>知的財産</category>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在留手数料の引き上げで、外国人雇用と日本進出のコストはどう変わるか</title>
+      <link>https://www.meilin-law.jp/%e5%9c%a8%e7%95%99%e6%89%8b%e6%95%b0%e6%96%99%e3%81%ae%e5%bc%95%e3%81%8d%e4%b8%8a%e3%81%92%e3%81%a7%e3%80%81%e5%a4%96%e5%9b%bd%e4%ba%ba%e9%9b%87%e7%94%a8%e3%81%a8%e6%97%a5%e6%9c%ac%e9%80%b2%e5%87%ba/</link>
+      <description>カテゴリー: 一般企業法務等
+執筆者：弁護士　鈴木 萌 　2026年10月1日から、在留資格の変更・在留期間の更新・永住許可の手数料が大幅に引き上げられました。これまで変更・更新の手数料は窓口で6,000円でしたが、現在は許可される在留期間に応じて10,000円～75,</description>
+      <content:encoded>カテゴリー: 一般企業法務等
+執筆者：弁護士　鈴木 萌 　2026年10月1日から、在留資格の変更・在留期間の更新・永住許可の手数料が大幅に引き上げられました。これまで変更・更新の手数料は窓口で6,000円でしたが、現在は許可される在留期間に応じて10,000円～75,</content:encoded>
+      <category>一般企業法務等</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
